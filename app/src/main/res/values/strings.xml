@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project Lancer</string>
+    <string name="navigation_drawer_open">Navigációs menü megnyitása</string>
+    <string name="navigation_drawer_close">Navigációs menü bezárása</string>
+    <string name="nav_header_title">Project Lancer</string>
+    <string name="nav_header_subtitle">Fejlesztés alatt</string>
+    <string name="action_settings">Beállítások</string>
+
+    <string name="menu_home">Kezdőlap</string>
+    <string name="menu_events">Rendezvények és Kiállítások</string>
+    <string name="menu_schools">Iskolák</string>
+    <string name="menu_map">Térkép</string>
+    <string name="menu_projects">Projektek</string>
+    <string name="menu_chats">Üzenetek</string>
+</resources>

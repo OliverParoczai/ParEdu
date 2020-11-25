@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_600">#398773</color>
+    <color name="green_900">#244B3D</color>
+    <color name="brown_600">#7E4854</color>
+    <color name="brown_900">#4B2432</color>
+    <color name="blue_500">#3e5bec</color>
+    <color name="blue_600">#003de6</color>
+    <color name="yellow_600">#eccf3e</color>
+    <color name="yellow_500">#e6b60a</color>
+    <color name="background">#ECEFF1</color>
+    <color name="backgroundnight">#424242</color>
+    <color name="alert">#f44336</color>
+    <color name="alertnight">#d32f2f</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
