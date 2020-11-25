@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Project Lancer</string>
+    <string name="app_name">ParEdu</string>
     <string name="navigation_drawer_open">Navigációs menü megnyitása</string>
     <string name="navigation_drawer_close">Navigációs menü bezárása</string>
-    <string name="nav_header_title">Project Lancer</string>
+    <string name="nav_header_title">ParEdu</string>
     <string name="nav_header_subtitle">Fejlesztés alatt</string>
     <string name="action_settings">Beállítások</string>
 

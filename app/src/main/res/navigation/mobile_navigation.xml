@@ -7,34 +7,34 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="hu.paroczaioliver.projectlancer.ui.home.HomeFragment"
+        android:name="hu.paroczaioliver.paredu.ui.home.HomeFragment"
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_events"
-        android:name="hu.paroczaioliver.projectlancer.ui.events.EventsFragment"
+        android:name="hu.paroczaioliver.paredu.ui.events.EventsFragment"
         android:label="@string/menu_events"
         tools:layout="@layout/fragment_events" />
 
     <fragment
         android:id="@+id/nav_schools"
-        android:name="hu.paroczaioliver.projectlancer.ui.schools.SchoolsFragment"
+        android:name="hu.paroczaioliver.paredu.ui.schools.SchoolsFragment"
         android:label="@string/menu_schools"
         tools:layout="@layout/fragment_schools" />
     <fragment
         android:id="@+id/nav_map"
-        android:name="hu.paroczaioliver.projectlancer.ui.map.MapFragment"
+        android:name="hu.paroczaioliver.paredu.ui.map.MapFragment"
         android:label="@string/menu_map"
         tools:layout="@layout/activity_map" />
     <fragment
         android:id="@+id/nav_projects"
-        android:name="hu.paroczaioliver.projectlancer.ui.projects.ProjectsFragment"
+        android:name="hu.paroczaioliver.paredu.ui.projects.ProjectsFragment"
         android:label="@string/menu_projects"
         tools:layout="@layout/fragment_projects" />
     <fragment
         android:id="@+id/nav_chats"
-        android:name="hu.paroczaioliver.projectlancer.ui.chats.ChatsFragment"
+        android:name="hu.paroczaioliver.paredu.ui.chats.ChatsFragment"
         android:label="@string/menu_chats"
         tools:layout="@layout/fragment_chats" />
 
